@@ -8,31 +8,31 @@ You can:
 
 ---
 
-## 📂 Repo Structure
+##  Repo Structure
 
 SOLID Start/
 │
-├── DIP/ # Examples for Dependency Inversion Principle
-├── ISP/ # Examples for Interface Segregation Principle
-├── LSP/ # Examples for Liskov Substitution Principle
-├── OCP/ # Examples for Open-Closed Principle
-├── SRP/ # Examples for Single Responsibility Principle
-│
-├── Problem-Statement/ # All problem statements
-│ ├── ps-1.md
-│ ├── ps-2.md
-│ └── ps-3.md
-│
-└── Solutions/ # Participant solutions go here
-└── exampleName_ps1/
-├── level1/ # Step 1 implementation
-├── level2/ # Step 2 implementation
-└── level3/ # Step 3 implementation
-
+├── DIP/ # Examples for Dependency Inversion Principle  
+├── ISP/ # Examples for Interface Segregation Principle  
+├── LSP/ # Examples for Liskov Substitution Principle  
+├── OCP/ # Examples for Open-Closed Principle  
+├── SRP/ # Examples for Single Responsibility Principle  
+│  
+├── Problem-Statement/ # All problem statements  
+│ ├── ps-1.md  
+│ ├── ps-2.md  
+│ └── ps-3.md  
+│  
+└── Solutions/ # Participant solutions go here  
+└── exampleName_ps1/  
+├── level1/ # Step 1 implementation  
+├── level2/ # Step 2 implementation  
+└── level3/ # Step 3 implementation  
+ 
 
 ---
 
-## 📝 Contribution Guidelines
+##  Contribution Guidelines
 
 1. **Read** a problem statement from `Problem-Statement/`  
    Example: `ps-1.md`
@@ -44,9 +44,9 @@ SOLID Start/
    Example: `johnDoe_ps1`
 
 3. **Inside your folder**, create:
-level1/ → Step 1 solution
-level2/ → Step 2 solution
-level3/ → Step 3 solution
+level1/ → Step 1 solution  
+level2/ → Step 2 solution  
+level3/ → Step 3 solution  
 
 
 4. **Follow SOLID principles** in every level.
@@ -57,23 +57,23 @@ level3/ → Step 3 solution
 
 ---
 
-## 💡 Example
+##  Example
 
 If I (user `nks`) solve Problem Statement 1:
 
-Solutions/nks_ps1/
-README.md
-level1/
-Main.java
-level2/
-Main.java
-level3/
-Main.java
+Solutions/nks_ps1/  
+README.md  
+level1/  
+Main.java  
+level2/  
+Main.java  
+level3/  
+Main.java  
 
 
 ---
 
-## 🚀 Submission
+##  Submission
 
 - Fork the repo
 - Add your solution in `Solutions/`
