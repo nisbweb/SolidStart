@@ -4,7 +4,7 @@ Welcome! This repo contains real-world problem statements designed to help you p
 
 You can:
 - Read the problem statements in the `Problem-Statement` folder.
-- Implement your own clean solutions in the `Solutions` folder.
+- Implement your own clean solutions in your prefered Language in the `Solutions` folder.
 
 ---
 
